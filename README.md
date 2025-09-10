@@ -75,6 +75,14 @@ Naive Bayes and Logistic Regression also performed well (>97% accuracy).
 
 Impact: Reliable spam detection reduces user risk by filtering malicious/unwanted emails.
 
+Task 4: Coffee Shop Analysis
+
+In this task, I analyzed customer purchase data from a coffee shop. I performed data cleaning, exploratory analysis, and visualizations to understand customer behavior, popular products, and sales trends. The insights helped identify which items were most popular and when sales were highest, providing useful recommendations for business improvement.
+
+Task 5: IMDB Sentiment Analysis
+
+In this task, I built a binary classification model to predict whether IMDB movie reviews were positive or negative. I preprocessed the text data (removing stopwords, punctuation, and applying stemming), converted reviews into numerical features using TF-IDF, and trained machine learning models. The model achieved strong performance, with around 88% accuracy, effectively classifying review sentiments.
+
 🛠️ Tech Stack
 
 Languages: Python
